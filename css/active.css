@@ -1538,10 +1538,10 @@ body, button, span.date_label, .timeline_items li h3 span, input[type="submit"],
 	font-family: "Lato", Arial, Tahoma, sans-serif;
 }
 #Subheader .title {
-	font-family: "Playfair Display", Arial, Tahoma, sans-serif;
+	font-family: "Playfair Display";
 }
 h1, h2, h3, h4, .text-logo #logo {
-	font-family: "Playfair Display", Arial, Tahoma, sans-serif;
+	font-family: "Playfair Display";
 }
 h5, h6 {
 	font-family: "Lato", Arial, Tahoma, sans-serif;
