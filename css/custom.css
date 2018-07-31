@@ -1,0 +1,5 @@
+@media only screen and (max-width: 1239px) {
+    .menu_wrapper{
+    visibility: hidden !important;
+}
+}
